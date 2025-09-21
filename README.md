@@ -19,10 +19,10 @@ Automatic species identification of microscopic marine organisms . This project 
 ## ⚙️ Setup & Installation
 
 1. **Clone the repository**
-   ```bash
+ ```bash
    git clone https://github.com/<your-username>/plankton-vision.git
    cd plankton-vision
-
+```
 2.*Create a virtual environment & install dependencies*
    ```bash
    python -m venv venv
