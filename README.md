@@ -55,7 +55,14 @@ Run training cells.
 
 Trained weights will be saved under weights/.
 
-6.*Tech Stack*
+6.*Download Weights*
+Use the best-performing model (`best.pt`) for inference:
+
+```bash
+bash scripts/download_weights.sh
+```
+
+7.*Tech Stack*
 
 Deep Learning → PyTorch, YOLOv8 (Ultralytics)
 
