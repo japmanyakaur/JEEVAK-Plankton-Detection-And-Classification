@@ -1,0 +1,23 @@
+# Core
+python>=3.8
+torch>=2.0
+torchvision
+
+# YOLOv8
+ultralytics>=8.0
+
+# Image & video
+opencv-python
+Pillow
+
+# Data science stack
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+tqdm
+
+# Utils
+pyyaml
+gdown   
