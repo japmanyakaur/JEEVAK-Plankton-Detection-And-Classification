@@ -15,6 +15,8 @@ Automatic species identification of microscopic marine organisms . This project 
 
 ---
 
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/70ac15aa-b106-4340-85f8-2542bd2d0be6" />
+
 
 ## ⚙️ Setup & Installation
 
@@ -70,6 +72,8 @@ Computer Vision → OpenCV, Pillow
 
 Visualization → Matplotlib, Seaborn
 
-Deployment → Raspberry Pi, Python
+Deployment → Raspberry Pi, Python,User Interface
+
+![WhatsApp Image 2025-09-21 at 1 40 06 AM](https://github.com/user-attachments/assets/2cceff9d-120d-4193-93d3-bd20a5ced9dd)
 
 
