@@ -74,6 +74,6 @@ Visualization → Matplotlib, Seaborn
 
 Deployment → Raspberry Pi, Python,User Interface
 
-![WhatsApp Image 2025-09-21 at 1 40 06 AM](https://github.com/user-attachments/assets/2cceff9d-120d-4193-93d3-bd20a5ced9dd)
+
 
 
